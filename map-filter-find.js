@@ -14,7 +14,7 @@ const bigger = numbers.filter(element => element > 5);
 console.log(bigger); //result:[303,6,7,8,9]
 
 const biggerOne = numbers.find(element => element > 5);
-//find provides just one element;
+//find provides just  which one is matching element;
 console.log(biggerOne); //result:303
 
 const result = numbers.reduce((element, value) => element - value);
