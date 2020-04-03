@@ -16,5 +16,10 @@ function OuterFun() {
 OuterFun();
 
 
+
+
+
+
+
 //Q.A: what is closure?
 //Ans: If function  have Inside a function this inside function doesn't exits outer function variable but outer function exits inner function variable thats call closure;
